@@ -3,6 +3,7 @@
 <head>
 <title>AdtoTah!</title>
 <meta charset="utf-8">
+<meta name="csrf-token" content="{{ csrf_token() }}">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Destino project">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,12 +18,12 @@
 </head>
 <body>
 
-<div id="app" class="super_container">
+<div class="super_container">
 	
 	<!-- Header -->
 
 	<header class="header">
-		<div class="container">
+		<div id="app" class="container">
 			<div class="row">
 				<div class="col">
 					<div class="header_container d-flex flex-row align-items-center justify-content-start">
