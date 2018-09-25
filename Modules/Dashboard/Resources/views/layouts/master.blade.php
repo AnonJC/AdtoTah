@@ -36,7 +36,7 @@
 </head>
 
 <body class="animsition">
-<div class="page-wrapper">
+<div id="app" class="page-wrapper">
 @yield('content')
 </div>
 

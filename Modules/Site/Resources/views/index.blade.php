@@ -17,7 +17,7 @@
 </head>
 <body>
 
-<div class="super_container">
+<div id="app" class="super_container">
 	
 	<!-- Header -->
 
@@ -29,11 +29,7 @@
 
 						<!-- Logo -->
 						<div class="logo_container">
-							<div class="logo">
-								<div>destino</div>
-								<div>travel agency</div>
-								<div class="logo_image"><img src="images/logo.png" alt=""></div>
-							</div>
+							<logo-component></logo-component>
 						</div>
 
 						<!-- Main Navigation -->
@@ -115,8 +111,8 @@
 		<div class="home_background" style="background-image:url(images/home.jpg)"></div>
 		<div class="home_content">
 			<div class="home_content_inner">
-				<div class="home_text_large">discover</div>
-				<div class="home_text_small">Discover new worlds</div>
+				<div class="home_text_large">Adto Tah!</div>
+				<div class="home_text_small">Food, Travel & Explore</div>
 			</div>
 		</div>
 	</div>
@@ -191,21 +187,19 @@
 						<a href="#">
 							<div class="top_item_image"><img src="images/top_1.jpg" alt="https://unsplash.com/@sgabriel"></div>
 							<div class="top_item_content">
-								<div class="top_item_price">From $890</div>
+								<div class="top_item_price">From &#8369;890</div>
 								<div class="top_item_text">Paris, France</div>
 							</div>
 						</a>
 					</div>
 				</div>
-
 				<div class="col-lg-3 col-md-6 top_col">
-
 					<!-- Top Destination Item -->
 					<div class="top_item">
 						<a href="#">
 							<div class="top_item_image"><img src="images/top_2.jpg" alt="https://unsplash.com/@jenspeter"></div>
 							<div class="top_item_content">
-								<div class="top_item_price">From $890</div>
+								<div class="top_item_price">From &#8369;890</div>
 								<div class="top_item_text">Italian Riviera</div>
 							</div>
 						</a>
@@ -252,7 +246,7 @@
 
 		<div class="container">
 			<div class="row">
-				<div class="last_logo"><img src="images/last_logo.png" alt=""></div>
+				<div class="last_logo"><img src="{{\asset('images/logo.ico')}}" alt=""></div>
 				<div class="col-lg-6 last_col">
 					<div class="last_item">
 						<div class="last_item_content">
@@ -527,11 +521,7 @@
 					<div class="footer_about">
 						<!-- Logo -->
 						<div class="logo_container">
-							<div class="logo">
-								<div>destino</div>
-								<div>travel agency</div>
-								<div class="logo_image"><img src="images/logo.png" alt=""></div>
-							</div>
+							<logo-component></logo-component>
 						</div>
 						<div class="footer_about_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pulvinar sed mauris eget tincidunt. Sed lectus nulla, tempor vel eleifend quis, tempus rut rum metus. Pellentesque ultricies enim eu quam fermentum hendrerit.</div>
 						<div class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
@@ -548,7 +538,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 							<!-- Footer Latest Post -->
 							<div class="footer_latest_item">
-								<div class="footer_latest_image"><img src="images/latest_1.jpg" alt="https://unsplash.com/@peecho"></div>
+								<div class="footer_latest_image"><img src="{{\asset('images/logo.ico')}}" alt="https://unsplash.com/@peecho"></div>
 								<div class="footer_latest_item_content">
 									<div class="footer_latest_item_title"><a href="news.blade.php">Brazil Summer</a></div>
 									<div class="footer_latest_item_date">Jan 09, 2018</div>
@@ -557,7 +547,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 							<!-- Footer Latest Post -->
 							<div class="footer_latest_item">
-								<div class="footer_latest_image"><img src="images/latest_2.jpg" alt="https://unsplash.com/@sanfrancisco"></div>
+								<div class="footer_latest_image"><img src="{{\asset('images/logo.ico')}}" alt="https://unsplash.com/@sanfrancisco"></div>
 								<div class="footer_latest_item_content">
 									<div class="footer_latest_item_title"><a href="news.blade.php">A perfect vacation</a></div>
 									<div class="footer_latest_item_date">Jan 09, 2018</div>
@@ -599,5 +589,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <script src="{{\asset('plugins/parallax-js-master/parallax.min.js')}}"></script>
 <script src="{{\asset('plugins/magnific-popup/jquery.magnific-popup.min.js')}}"></script>
 <script src="{{\asset('js/custom.js')}}"></script>
+<script src="{{\asset('js/app.js')}}"></script>
 </body>
 </html>

@@ -6,7 +6,7 @@
         <div class="container-fluid">
             <div class="header-mobile-inner">
                 <a class="logo" href="index.html">
-                    <img src="images/icon/logo.png" alt="CoolAdmin" />
+                    <img class="embed-responsive" src="images/icon/logo.ico" alt="CoolAdmin" height="30px" />
                 </a>
                 <button class="hamburger hamburger--slider" type="button">
                             <span class="hamburger-box">
@@ -945,4 +945,4 @@
     <!-- END MAIN CONTENT-->
     <!-- END PAGE CONTAINER-->
 </div>
-@stop
+@endsection
