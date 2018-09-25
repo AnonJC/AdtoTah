@@ -1,0 +1,16 @@
+{
+    "name": "LGU",
+    "alias": "lgu",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\LGU\\Providers\\LGUServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
