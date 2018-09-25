@@ -27,8 +27,7 @@
 						<!-- Logo -->
 						<div class="logo_container">
 							<div class="logo">
-								<div>destino</div>
-								<div>travel agency</div>
+								<div>ADTO TAH</div>
 								<div class="logo_image"><img src="images/logo.png" alt=""></div>
 							</div>
 						</div>
@@ -189,21 +188,20 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h2>We are an award winning Agency</h2>
-						<div>take a look at our story</div>
+						<h2>ABOUT ADTO TAH!</h2>
 					</div>
 				</div>
 			</div>
 			<div class="row about_row">
 				<div class="col-lg-6 about_col order-lg-1 order-2">
 					<div class="about_content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla lectus nec diam auctor, ut fringilla diam sagittis. Quisque vel est id justo faucibus dapibus id a nibh. Aenean suscipit consequat lacus, sit amet mollis nulla. Morbi sagittis orci id lacus convallis tempus eget sit amet metus. Sed finibus, magna at euismod aliquet, enim justo vulputate lorem, sit amet elementum dolor eros sollicitudin dui. Sed ac magna mauris. Nullam lectus odio, viverra vel mi id, interdum imperdiet nulla. </p>
+						<p> It is a platform that enables backpackers to explore, to taste, to enjoy and experience beautiful rendezvous places. </p>
 						<div class="button about_button"><a href="#">Read More</a></div>
 					</div>
 				</div>
 				<div class="col-lg-6 about_col order-lg-2 order-1">
 					<div class="about_image">
-						<img src="images/about.jpg" alt="https://unsplash.com/@sanfrancisco">
+						<img src="images/adtotah.png" alt="https://unsplash.com/@sanfrancisco">
 					</div>
 				</div>
 			</div>
@@ -218,7 +216,7 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h2>Fun facts about our Agency</h2>
+						<h2>Facts about Adto Tah!</h2>
 						<div>take a look</div>
 					</div>
 				</div>
@@ -236,9 +234,9 @@
 				<!-- Milestone -->
 				<div class="col-lg-3 milestone_col">
 					<div class="milestone text-center">
-						<div class="milestone_icon"><img src="images/milestone_1.svg" alt=""></div>
+						<div class="milestone_icon"><img src="images/waterfall.svg" alt=""></div>
 						<div class="milestone_counter" data-end-value="17">0</div>
-						<div class="milestone_text">Mountains Climbed</div>
+						<div class="milestone_text">Falls visited</div>
 					</div>
 				</div>
 
@@ -263,9 +261,9 @@
 				<!-- Milestone -->
 				<div class="col-lg-3 milestone_col">
 					<div class="milestone text-center">
-						<div class="milestone_icon"><img src="images/milestone_4.svg" alt=""></div>
+						<div class="milestone_icon"><img src="images/photographer.svg" alt=""></div>
 						<div class="milestone_counter" data-end-value="15">0</div>
-						<div class="milestone_text">Cruises Organized</div>
+						<div class="milestone_text">Tourist Organized</div>
 					</div>
 				</div>
 
@@ -290,9 +288,9 @@
 				<!-- Icon Box -->
 				<div class="col-lg-4 icon_box_col">
 					<div class="icon_box">
-						<div class="icon_box_image"><img src="images/service_1.svg" class="svg" alt="https://www.flaticon.com/authors/monkik"></div>
-						<div class="icon_box_title">Weekend trips</div>
-						<p class="icon_box_text">Lorem ipsum dolor sit amet, consectetur adip iscing elit. Fusce fringilla lectus nec diam auctor, ut fringilla diam sagittis.</p>
+						<div class="icon_box_image"><img src="images/bus.svg" class="svg" alt="https://www.flaticon.com/authors/monkik"></div>
+						<div class="icon_box_title">Book ticket for trips</div>
+						<p class="icon_box_text"> Get your app ready through online booking of ticket and hit the road! </p>
 						<a href="#" class="icon_box_more">Read More</a>
 					</div>
 				</div>
@@ -300,9 +298,9 @@
 				<!-- Icon Box -->
 				<div class="col-lg-4 icon_box_col">
 					<div class="icon_box">
-						<div class="icon_box_image"><img src="images/service_2.svg" class="svg" alt="https://www.flaticon.com/authors/monkik"></div>
-						<div class="icon_box_title">Fun leisure trips</div>
-						<p class="icon_box_text">Lorem ipsum dolor sit amet, consectetur adip iscing elit. Fusce fringilla lectus nec diam auctor, ut fringilla diam sagittis.</p>
+						<div class="icon_box_image"><img src="images/dinner.svg" class="svg" alt="https://www.flaticon.com/authors/monkik"></div>
+						<div class="icon_box_title">Discover new restaurants</div>
+						<p class="icon_box_text"> Featuring location of the best restaurant in the city with their special dishes. Help your stomach with just one tap!</p>
 						<a href="#" class="icon_box_more">Read More</a>
 					</div>
 				</div>
@@ -310,9 +308,9 @@
 				<!-- Icon Box -->
 				<div class="col-lg-4 icon_box_col">
 					<div class="icon_box">
-						<div class="icon_box_image"><img src="images/service_3.svg" class="svg" alt="https://www.flaticon.com/authors/monkik"></div>
-						<div class="icon_box_title">Plane tickets</div>
-						<p class="icon_box_text">Lorem ipsum dolor sit amet, consectetur adip iscing elit. Fusce fringilla lectus nec diam auctor, ut fringilla diam sagittis.</p>
+						<div class="icon_box_image"><img src="images/world.svg" class="svg" alt="https://www.flaticon.com/authors/monkik"></div>
+						<div class="icon_box_title">Explore new places</div>
+						<p class="icon_box_text">Get to know the special destination of the city using Adto Tah platform! You can locate and get help from the locals or use the platform itself to guide you to your new rendezvous. </p>
 						<a href="#" class="icon_box_more">Read More</a>
 					</div>
 				</div>
@@ -323,9 +321,9 @@
 
 	<!-- Newsletter -->
 
-	<div class="newsletter">
+	<!-- <div class="newsletter">
 		<!-- Image by https://unsplash.com/@garciasaldana_ -->
-		<div class="newsletter_background" style="background-image:url(images/newsletter.jpg)"></div>
+		<!-- <div class="newsletter_background" style="background-image:url(images/newsletter.jpg)"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-10 offset-lg-1">
@@ -343,7 +341,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>  -->-->
 
 	<!-- Footer -->
 
@@ -357,14 +355,13 @@
 						<!-- Logo -->
 						<div class="logo_container">
 							<div class="logo">
-								<div>destino</div>
-								<div>travel agency</div>
+								<div>Adto Tah!</div>
 								<div class="logo_image"><img src="images/logo.png" alt=""></div>
 							</div>
 						</div>
-						<div class="footer_about_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pulvinar sed mauris eget tincidunt. Sed lectus nulla, tempor vel eleifend quis, tempus rut rum metus. Pellentesque ultricies enim eu quam fermentum hendrerit.</div>
+						<div class="footer_about_text"></div>
 						<div class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank"></a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
 					</div>
 				</div>
@@ -379,8 +376,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 							<div class="footer_latest_item">
 								<div class="footer_latest_image"><img src="images/latest_1.jpg" alt="https://unsplash.com/@peecho"></div>
 								<div class="footer_latest_item_content">
-									<div class="footer_latest_item_title"><a href="news.blade.php">Brazil Summer</a></div>
-									<div class="footer_latest_item_date">Jan 09, 2018</div>
+									<div class="footer_latest_item_title"><a href="news.blade.php">Diyandi Festival</a></div>
+									<div class="footer_latest_item_date">September 28, 2018</div>
 								</div>
 							</div>
 
