@@ -174,7 +174,7 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h2>Top destinations in Europe</h2>
+						<h2>Top destinations in Iligan city</h2>
 						<div>take a look at these offers</div>
 					</div>
 				</div>
@@ -186,10 +186,10 @@
 					<!-- Top Destination Item -->
 					<div class="top_item">
 						<a href="#">
-							<div class="top_item_image"><img src="images/top_1.jpg" alt="https://unsplash.com/@sgabriel"></div>
+							<div class="top_item_image"><img src="images/tinago.jpg" width="300" height="360" alt="https://unsplash.com/@sgabriel"></div>
 							<div class="top_item_content">
-								<div class="top_item_price">From &#8369;890</div>
-								<div class="top_item_text">Paris, France</div>
+								<div class="top_item_price">From &#8369;500</div>
+								<div class="top_item_text">Tinago Falls</div>
 							</div>
 						</a>
 					</div>
@@ -198,24 +198,10 @@
 					<!-- Top Destination Item -->
 					<div class="top_item">
 						<a href="#">
-							<div class="top_item_image"><img src="images/top_2.jpg" alt="https://unsplash.com/@jenspeter"></div>
+							<div class="top_item_image"><img src="images/paseo.jpg" width="300" height="360" alt="https://unsplash.com/@jenspeter"></div>
 							<div class="top_item_content">
-								<div class="top_item_price">From &#8369;890</div>
-								<div class="top_item_text">Italian Riviera</div>
-							</div>
-						</a>
-					</div>
-				</div>
-
-				<div class="col-lg-3 col-md-6 top_col">
-
-					<!-- Top Destination Item -->
-					<div class="top_item">
-						<a href="#">
-							<div class="top_item_image"><img src="images/top_3.jpg" alt="https://unsplash.com/@anikindimitry"></div>
-							<div class="top_item_content">
-								<div class="top_item_price">From $890</div>
-								<div class="top_item_text">Cinque Terre</div>
+								<div class="top_item_price">From &#8369;500</div>
+								<div class="top_item_text">Paseo De Santiago</div>
 							</div>
 						</a>
 					</div>
@@ -226,10 +212,24 @@
 					<!-- Top Destination Item -->
 					<div class="top_item">
 						<a href="#">
-							<div class="top_item_image"><img src="images/top_4.jpg" alt="https://unsplash.com/@hellolightbulb"></div>
+							<div class="top_item_image"><img src="images/maria.jpg" width="300" height="360" alt="https://unsplash.com/@anikindimitry"></div>
 							<div class="top_item_content">
-								<div class="top_item_price">From $890</div>
-								<div class="top_item_text">Santorini, Greece</div>
+								<div class="top_item_price">From &#8369;500</div>
+								<div class="top_item_text">Maria Cristina Falls</div>
+							</div>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-6 top_col">
+
+					<!-- Top Destination Item -->
+					<div class="top_item">
+						<a href="#">
+							<div class="top_item_image"><img src="images/Dodiongan.jpg"  width="300" height="360" alt="https://unsplash.com/@hellolightbulb"></div>
+							<div class="top_item_content">
+								<div class="top_item_price">From &#8369; 500</div>
+								<div class="top_item_text">Dodiongan Falls</div>
 							</div>
 						</a>	
 					</div>
@@ -251,10 +251,10 @@
 				<div class="col-lg-6 last_col">
 					<div class="last_item">
 						<div class="last_item_content">
-							<div class="last_subtitle">maldive</div>
+							<div class="last_subtitle">Majestic Falls Pack</div>
 							<div class="last_percent">50%</div>
 							<div class="last_title">Last Minute Offer</div>
-							<div class="last_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pulvinar sed mauris eget tincidunt. Sed lectus nulla, tempor vel.</div>
+							<div class="last_text">50% off each pax including all existing waterfalls in Iligan City. What are you waiting for? Adto Tah!</div>
 							<div class="button last_button"><a href="offers.blade.php">See Offer</a></div>
 						</div>
 					</div>
@@ -262,10 +262,10 @@
 				<div class="col-lg-6 last_col">
 					<div class="last_item">
 						<div class="last_item_content">
-							<div class="last_subtitle">bali</div>
+							<div class="last_subtitle">Pools Pack</div>
 							<div class="last_percent">38%</div>
 							<div class="last_title">Last Minute Offer</div>
-							<div class="last_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pulvinar sed mauris eget tincidunt. Sed lectus nulla, tempor vel.</div>
+							<div class="last_text">38% off each pax including all existing swimming pools and boulevard in Iligan City. What are you waiting for? Adto Tah! </div>
 							<div class="button last_button"><a href="offers.blade.php">See Offer</a></div>
 						</div>
 					</div>
@@ -278,10 +278,10 @@
 
 	<div class="video_section d-flex flex-column align-items-center justify-content-center">
 		<!-- Image by https://unsplash.com/@peecho -->
-		<div class="video_background parallax-window" data-parallax="scroll" data-image-src="images/video.jpg" data-speed="0.8"></div>
+		<div class="video_background parallax-window" data-parallax="scroll" data-image-src="images/iligan.jpg" data-speed="0.8"></div>
 		<div class="video_content">
-			<div class="video_title">A day on the island</div>
-			<div class="video_subtitle">A trip organized by Destino's team</div>
+			<div class="video_title">A day on Iligan City</div>
+			<div class="video_subtitle">A trip organized by Adto Tah Team</div>
 			<div class="video_play">
 				<a  class="video" href="https://www.youtube.com/watch?v=BzMLA8YIgG0">
 					<svg version="1.1" id="Layer_1" class="play_button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -303,7 +303,7 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h2>Popular destinations in 2018</h2>
+						<h2>Other Popular destinations in Iligan City</h2>
 						<div>take a look at these offers</div>
 					</div>
 				</div>
@@ -315,10 +315,9 @@
 						<!-- Popular Item -->
 						<div class="popular_item">
 							<a href="offers.blade.php">
-								<img src="images/popular_1.jpg" alt="image by Egzon Bytyqi">
+								<img src="images/limusundan.jpg" width="300" height="200" alt="image by Egzon Bytyqi">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Turkey</div>
+									<div class="popular_item_title">Limusundan Falls</div>
 								</div>
 							</a>	
 						</div>
@@ -326,10 +325,9 @@
 						<!-- Popular Item -->
 						<div class="popular_item">
 							<a href="offers.blade.php">
-								<img src="images/popular_2.jpg" alt="https://unsplash.com/@michael75">
+								<img src="images/kalubihon.jpg" width="300" height="200" alt="https://unsplash.com/@michael75">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Hawai</div>
+									<div class="popular_item_title">Kalubihon Falls</div>
 								</div>
 							</a>	
 						</div>
@@ -337,10 +335,9 @@
 						<!-- Popular Item -->
 						<div class="popular_item">
 							<a href="offers.blade.php">
-								<img src="images/popular_3.jpg" alt="https://unsplash.com/@sapegin">
+								<img src="images/timoga.jpg" width="300" height="200" alt="https://unsplash.com/@sapegin">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Ireland</div>
+									<div class="popular_item_title">Timoga Spring Pool</div>
 								</div>
 							</a>	
 						</div>
@@ -348,10 +345,9 @@
 						<!-- Popular Item -->
 						<div class="popular_item">
 							<a href="offers.blade.php">
-								<img src="images/popular_4.jpg" alt="https://unsplash.com/@kensuarez">
+								<img src="images/mimbalut.jpg" width="300" height="200" alt="https://unsplash.com/@kensuarez">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Thailand</div>
+									<div class="popular_item_title">Mimbalut Falls</div>
 								</div>
 							</a>
 						</div>
@@ -359,10 +355,8 @@
 						<!-- Popular Item -->
 						<div class="popular_item">
 							<a href="offers.blade.php">
-								<img src="images/popular_5.jpg" alt="https://unsplash.com/@noahbasle">
+								<img src="images/pizzarella.jpg" width="300" height="200" alt="https://unsplash.com/@noahbasle">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Croatia</div>
 								</div>
 							</a>
 						</div>
@@ -370,10 +364,8 @@
 						<!-- Popular Item -->
 						<div class="popular_item">
 							<a href="offers.blade.php">
-								<img src="images/popular_6.jpg" alt="https://unsplash.com/@seb">
+								<img src="images/aruma.jpg" width="300" height="200" alt="https://unsplash.com/@seb">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Bali</div>
 								</div>
 							</a>
 						</div>
@@ -381,10 +373,8 @@
 						<!-- Popular Item -->
 						<div class="popular_item">
 							<a href="offers.blade.php">
-								<img src="images/popular_7.jpg" alt="https://unsplash.com/@nevenkrcmarek">
+								<img src="images/lailai.jpg" width="300" height="200" alt="https://unsplash.com/@nevenkrcmarek">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">France</div>
 								</div>
 							</a>	
 						</div>
@@ -392,10 +382,8 @@
 						<!-- Popular Item -->
 						<div class="popular_item">
 							<a href="offers.blade.php">
-								<img src="images/popular_8.jpg" alt="https://unsplash.com/@bergeryap87">
+								<img src="images/chedings.png" width="300" height="200" alt="https://unsplash.com/@bergeryap87">
 								<div class="popular_item_content">
-									<div class="popular_item_price">From $890</div>
-									<div class="popular_item_title">Vietnam</div>
 								</div>
 							</a>
 						</div>
@@ -408,7 +396,7 @@
 
 	<!-- Special -->
 
-	<div class="special">
+	<!-- <div class="special">
 		<div class="container">
 			<div class="row">
 				<div class="col">
@@ -422,9 +410,9 @@
 		<div class="special_content">
 			<div class="special_slider_container">
 				<div class="owl-carousel owl-theme special_slider">
-					
-					<!-- Special Offers Item -->
-					<div class="owl-item">
+					 -->
+					<!-- <!-- Special Offers Item -->
+					<!-- <div class="owl-item">
 						<div class="special_item">
 							<div class="special_item_background"><img src="images/special_1.jpg" alt="https://unsplash.com/@garciasaldana_"></div>
 							<div class="special_item_content text-center">
@@ -435,7 +423,7 @@
 					</div>
 
 					<!-- Special Offers Item -->
-					<div class="owl-item">
+					<!-- <div class="owl-item">
 						<div class="special_item d-flex flex-column align-items-center justify-content-center">
 							<div class="special_item_background"><img src="images/special_2.jpg" alt="https://unsplash.com/@varshesh"></div>
 							<div class="special_item_content text-center">
@@ -446,7 +434,7 @@
 					</div>
 
 					<!-- Special Offers Item -->
-					<div class="owl-item">
+					<!-- <!-- <div class="owl-item">
 						<div class="special_item d-flex flex-column align-items-center justify-content-center">
 							<div class="special_item_background"><img src="images/special_3.jpg" alt="https://unsplash.com/@paulgilmore_"></div>
 							<div class="special_item_content text-center">
@@ -457,7 +445,7 @@
 					</div>
 
 					<!-- Special Offers Item -->
-					<div class="owl-item">
+			<!-- 		<div class="owl-item">
 						<div class="special_item d-flex flex-column align-items-center justify-content-center">
 							<div class="special_item_background"><img src="images/special_4.jpg" alt="https://unsplash.com/@hellolightbulb"></div>
 							<div class="special_item_content text-center">
@@ -468,7 +456,7 @@
 					</div>
 
 					<!-- Special Offers Item -->
-					<div class="owl-item">
+					<!-- <div class="owl-item">
 						<div class="special_item d-flex flex-column align-items-center justify-content-center">
 							<div class="special_item_background"><img src="images/special_5.jpg" alt="https://unsplash.com/@dnevozhai"></div>
 							<div class="special_item_content text-center">
@@ -485,13 +473,13 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>  -->
 
 	<!-- Newsletter -->
-
+<!-- 
 	<div class="newsletter">
 		<!-- Image by https://unsplash.com/@garciasaldana_ -->
-		<div class="newsletter_background" style="background-image:url(images/newsletter.jpg)"></div>
+		<!-- <div class="newsletter_background" style="background-image:url(images/newsletter.jpg)"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-10 offset-lg-1">
@@ -509,7 +497,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div -->> -->
 
 	<!-- Footer -->
 
@@ -524,9 +512,9 @@
 						<div class="logo_container">
 							<logo-component></logo-component>
 						</div>
-						<div class="footer_about_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pulvinar sed mauris eget tincidunt. Sed lectus nulla, tempor vel eleifend quis, tempus rut rum metus. Pellentesque ultricies enim eu quam fermentum hendrerit.</div>
+						<div class="footer_about_text"> Adto Tah!</div>
 						<div class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved  <i class="fa fa-heart-o" aria-hidden="true"></i> <a href="https://colorlib.com" target="_blank"></a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
 					</div>
 				</div>
@@ -541,8 +529,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 							<div class="footer_latest_item">
 								<div class="footer_latest_image"><img src="{{\asset('images/logo.ico')}}" alt="https://unsplash.com/@peecho"></div>
 								<div class="footer_latest_item_content">
-									<div class="footer_latest_item_title"><a href="news.blade.php">Brazil Summer</a></div>
-									<div class="footer_latest_item_date">Jan 09, 2018</div>
+									<div class="footer_latest_item_title"><a href="news.blade.php">Diyandi Festival</a></div>
+									<div class="footer_latest_item_date">Sept 28, 2018</div>
 								</div>
 							</div>
 

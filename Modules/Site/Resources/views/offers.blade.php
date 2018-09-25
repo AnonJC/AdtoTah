@@ -19,18 +19,14 @@
 	<!-- Header -->
 
 	<header class="header">
-		<div class="container">
+		<div id="app" class="container">
 			<div class="row">
 				<div class="col">
 					<div class="header_container d-flex flex-row align-items-center justify-content-start">
 
 						<!-- Logo -->
 						<div class="logo_container">
-							<div class="logo">
-								<div>destino</div>
-								<div>travel agency</div>
-								<div class="logo_image"><img src="images/logo.png" alt=""></div>
-							</div>
+							<logo-component></logo-component>
 						</div>
 
 						<!-- Main Navigation -->
@@ -189,7 +185,7 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h2>Top destinations in Europe</h2>
+						<h2>Top destinations in Iligan City</h2>
 						<div>take a look at these offers</div>
 					</div>
 				</div>
@@ -258,14 +254,12 @@
 
 						<!-- Item -->
 						<div class="item clearfix rating_5">
-							<div class="item_image"><img src="images/top_1.jpg" alt=""></div>
+							<div class="item_image"><img src="images/tinago.jpg" width="300" height="200" alt=""></div>
 							<div class="item_content">
-								<div class="item_price">From $890</div>
-								<div class="item_title">Paris, France</div>
+								<div class="item_title"> Tinago Falls</div>
 								<ul>
-									<li>1 person</li>
-									<li>4 nights</li>
-									<li>3 star hotel</li>
+									<li>5 star rating</li>
+									<li>Waterfall</li>
 								</ul>
 								<div class="rating rating_5" data-rating="5">
 									<i class="fa fa-star"></i>
@@ -274,21 +268,19 @@
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
 								</div>
-								<div class="item_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla lectus nec diam auctor, ut fringilla diam sagittis. Quisque vel est id justo faucibus dapibus id a nibh. Aenean suscipit consequat lacus, sit amet mollis nulla. Morbi sagittis orci id lacus convallis tempus eget sit amet metus.</div>
+								<div class="item_text">Tinago Falls “hidden” is a waterfall on the Agus River, located in between the town of Linamon and Iligan City, Lanao del Norte in the southern Philippine island of Mindanao. Legend has it that there once lived an influential and powerful Sultan Agok and his wife. They were appointed by their people as their king and queen. But they became too proud of themselves and became selfish rulers of their kingdom. When the sultan's wife was pregnant, an enchantress, disguised as a beggar, begged for their help but instead they exiled and rejected her. Because of this, the enchantress cursed the couple that the child will become ugly but they did not take it seriously and permanently banished the enchantress.</div>
 								<div class="item_more_link"><a href="#">Read More</a></div>
 							</div>
 						</div>
 
 						<!-- Item -->
 						<div class="item clearfix rating_3">
-							<div class="item_image"><img src="images/top_2.jpg" alt=""></div>
+							<div class="item_image"><img src="images/paseo.jpg" width="300" height="200" alt=""></div>
 							<div class="item_content">
-								<div class="item_price">From $290</div>
-								<div class="item_title">Cinque Terre</div>
+								<div class="item_title">Paseo De Santiago</div>
 								<ul>
-									<li>1 person</li>
-									<li>4 nights</li>
-									<li>3 star hotel</li>
+									<li>4 rating</li>
+									<li>Boulevard</li>
 								</ul>
 								<div class="rating rating_3" data-rating="3">
 									<i class="fa fa-star"></i>
@@ -297,21 +289,19 @@
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
 								</div>
-								<div class="item_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla lectus nec diam auctor, ut fringilla diam sagittis. Quisque vel est id justo faucibus dapibus id a nibh. Aenean suscipit consequat lacus, sit amet mollis nulla. Morbi sagittis orci id lacus convallis tempus eget sit amet metus.</div>
+								<div class="item_text">Paseo De Santiago Balite Drive, Iligan City, Lanao del Norte</div>
 								<div class="item_more_link"><a href="#">Read More</a></div>
 							</div>
 						</div>
 
 						<!-- Item -->
 						<div class="item clearfix rating_4">
-							<div class="item_image"><img src="images/top_3.jpg" alt=""></div>
+							<div class="item_image"><img src="images/maria.jpg" width="300" height="200"alt=""></div>
 							<div class="item_content">
-								<div class="item_price">From $590</div>
-								<div class="item_title">Italian Riviera</div>
+								<div class="item_title">Maria Christina Falls</div>
 								<ul>
-									<li>1 person</li>
-									<li>4 nights</li>
-									<li>3 star hotel</li>
+									<li>5 star rating</li>
+									<li>Waterfall</li>
 								</ul>
 								<div class="rating rating_4" data-rating="4">
 									<i class="fa fa-star"></i>
@@ -320,21 +310,19 @@
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
 								</div>
-								<div class="item_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla lectus nec diam auctor, ut fringilla diam sagittis. Quisque vel est id justo faucibus dapibus id a nibh. Aenean suscipit consequat lacus, sit amet mollis nulla. Morbi sagittis orci id lacus convallis tempus eget sit amet metus.</div>
+								<div class="item_text"> Maria Cristina is a waterfall of the Agus River on the island of Mindanao in the Philippines. It is sometimes called the "twin falls" as the flow is separated by a rock at the brink of the waterfall. It is a landmark of Iligan City, nicknamed the City of Majestic Waterfalls, because of the presence of more than 20 waterfalls in the city. It is located 9.3 kilometers away southwest of the city proper at the boundaries of Barangays Maria Cristina, Ditucalan, and Buru-un. Known for its natural grandeur, the 320 - feet (98 meters) high waterfall is also the primary source of electric power for the city's industries, being harnessed by the Agus VI Hydroelectric Plant.</div>
 								<div class="item_more_link"><a href="#">Read More</a></div>
 							</div>
 						</div>
 
 						<!-- Item -->
 						<div class="item clearfix rating_5">
-							<div class="item_image"><img src="images/top_4.jpg" alt=""></div>
+							<div class="item_image"><img src="images/dodiongan.jpg" width="300" height="200" alt=""></div>
 							<div class="item_content">
-								<div class="item_price">From $490</div>
-								<div class="item_title">Santorini, Greece</div>
+								<div class="item_title">Dodiongan Falls</div>
 								<ul>
-									<li>1 person</li>
-									<li>4 nights</li>
-									<li>3 star hotel</li>
+									<li>3 star rating</li>
+									<li>waterfall</li>
 								</ul>
 								<div class="rating rating_5" data-rating="5">
 									<i class="fa fa-star"></i>
@@ -343,7 +331,7 @@
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
 								</div>
-								<div class="item_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fringilla lectus nec diam auctor, ut fringilla diam sagittis. Quisque vel est id justo faucibus dapibus id a nibh. Aenean suscipit consequat lacus, sit amet mollis nulla. Morbi sagittis orci id lacus convallis tempus eget sit amet metus.</div>
+								<div class="item_text"> Dodiongan Falls is a 20-metre (65.5 ft) high waterfall located in Barangay Bonbonon</div>
 								<div class="item_more_link"><a href="#">Read More</a></div>
 							</div>
 						</div>
@@ -368,9 +356,9 @@
 
 	<!-- Newsletter -->
 
-	<div class="newsletter">
+<!-- 	<div class="newsletter"> -->
 		<!-- Image by https://unsplash.com/@garciasaldana_ -->
-		<div class="newsletter_background" style="background-image:url(images/newsletter.jpg)"></div>
+		<!-- <div class="newsletter_background" style="background-image:url(images/newsletter.jpg)"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-10 offset-lg-1">
@@ -389,7 +377,7 @@
 			</div>
 		</div>
 	</div>
-
+ -->
 	<!-- Footer -->
 
 	<footer class="footer">
@@ -402,14 +390,13 @@
 						<!-- Logo -->
 						<div class="logo_container">
 							<div class="logo">
-								<div>destino</div>
-								<div>travel agency</div>
+								<div>Adto Tah</div>
 								<div class="logo_image"><img src="images/logo.png" alt=""></div>
 							</div>
 						</div>
-						<div class="footer_about_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pulvinar sed mauris eget tincidunt. Sed lectus nulla, tempor vel eleifend quis, tempus rut rum metus. Pellentesque ultricies enim eu quam fermentum hendrerit.</div>
+		<!-- 				<div class="footer_about_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pulvinar sed mauris eget tincidunt. Sed lectus nulla, tempor vel eleifend quis, tempus rut rum metus. Pellentesque ultricies enim eu quam fermentum hendrerit.</div> -->
 						<div class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank"></a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
 					</div>
 				</div>
@@ -424,8 +411,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 							<div class="footer_latest_item">
 								<div class="footer_latest_image"><img src="images/latest_1.jpg" alt="https://unsplash.com/@peecho"></div>
 								<div class="footer_latest_item_content">
-									<div class="footer_latest_item_title"><a href="news.blade.php">Brazil Summer</a></div>
-									<div class="footer_latest_item_date">Jan 09, 2018</div>
+									<div class="footer_latest_item_title"><a href="news.blade.php">Diyandi Festival</a></div>
+									<div class="footer_latest_item_date">September 28, 2018</div>
 								</div>
 							</div>
 
@@ -477,5 +464,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <script src="{{\asset('plugins/easing/easing.js')}}"></script>
 <script src="{{\asset('plugins/parallax-js-master/parallax.min.js')}}"></script>
 <script src="{{\asset('js/offers_custom.js')}}"></script>
+<script src="{{\asset('js/app.js')}}"></script>
 </body>
 </html>
