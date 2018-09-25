@@ -19,17 +19,14 @@
 	<!-- Header -->
 
 	<header class="header">
-		<div class="container">
+		<div id="app" class="container">
 			<div class="row">
 				<div class="col">
 					<div class="header_container d-flex flex-row align-items-center justify-content-start">
 
 						<!-- Logo -->
 						<div class="logo_container">
-							<div class="logo">
-								<div>ADTO TAH</div>
-								<div class="logo_image"><img src="images/logo.png" alt=""></div>
-							</div>
+							<logo-component></logo-component>
 						</div>
 
 						<!-- Main Navigation -->
@@ -428,5 +425,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <script src="{{\asset('plugins/easing/easing.js')}}"></script>
 <script src="{{\asset('plugins/parallax-js-master/parallax.min.js')}}"></script>
 <script src="{{\asset('js/about_custom.js')}}"></script>
+<script src="{{\asset('js/app.js')}}"></script>
 </body>
 </html>
